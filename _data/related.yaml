@@ -1,0 +1,15 @@
+content: >-
+  <li><a href="https://github.com/visionmedia/debug">debug</a>: small debugging
+  utility</li>
+
+  <li><a href="https://github.com/mochajs/mocha">mocha</a>: simple, flexible, fun
+  test framework</li>
+
+  <li><a href="https://github.com/assemble/verb">verb</a>: Documentation
+  generator for GitHub projects. Extremely powerful, easy to use, can generate
+  anything from API… <a href="https://github.com/assemble/verb">more</a></li>
+
+  <li><a
+  href="https://github.com/jonschlinkert/verb-tag-jscomments">verb-tag-jscomments</a>:
+  Tag for Verb. Uses js-comments to parse JavaScript code comments and generate
+  API documentation.</li>
